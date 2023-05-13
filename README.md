@@ -4,4 +4,4 @@
 
 <p>Harmony Plugin that installs and patches Oxide Framework into a vanilla windows rust server.<br />
 Download <a class="js-navigation-open Link--primary" href="https://github.com/bmgjet/HO2/raw/main/HO2_Windows.zip" title="HO2_Windows.zip">HO2_Windows.zip</a> and extract that into the root of your windows rust server.<br />
-Staging only at this time due to netid change to ulong.</p>
+</p>
